@@ -1,3 +1,4 @@
+,IS_COMPUTED,IS_INCREMENTED,IS_PRIMARY,COLUMN_NAME,DATA_TYPE,ORDINAL_POSITION
 0,1,0,employee_group_id,int,1
 0,0,0,organization_id,int,2
 0,0,0,naics_code,int,3
